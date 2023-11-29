@@ -1,0 +1,10 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+#preview { 
+  color: rgb(198, 198, 238);
+  text-align: left;
+}
